@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kipsangchepesa
+- 👋 Hi, I’m @kipsang Mutai Nicholas
 - 👀 I’m interested in Data analysis and software Development
 - 🌱 I’m currently learning Datascience in Moringa school
 - 💞️ I’m looking to collaborate on every project
